@@ -8,5 +8,5 @@ This application will introduce the next generation food ordering system. Instea
 I have uploded PDF file named snapshot.pdf
 
 # Video
-[![Video]](Video.mp4)
+To watch video you need to download project
 
