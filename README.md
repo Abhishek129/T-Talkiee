@@ -8,4 +8,4 @@ This application will introduce the next generation food ordering system. Instea
 I have uploded PDF file named snapshot.pdf
 
 # Video
-![T-Talkiee](Video.mp4)
+Video.mp4
